@@ -4,6 +4,7 @@ build
 #android
 .classpath
 .project
+.settings
 project.properties
 /assets
 /bin

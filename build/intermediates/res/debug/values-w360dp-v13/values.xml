@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <!-- From: file:/Users/toshihirock/Documents/workspace/HelloWorld/build/intermediates/exploded-aar/workspace/appcompat_v7/unspecified/res/values-w360dp-v13/values.xml -->
-    <eat-comment />
-
-    <integer name="abc_max_action_buttons">3</integer>
-
-</resources>
