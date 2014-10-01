@@ -1,0 +1,10 @@
+#gradle
+build
+
+#android
+.classpath
+.project
+project.properties
+/assets
+/bin
+/gen
