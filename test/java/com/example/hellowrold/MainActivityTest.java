@@ -22,7 +22,7 @@ public class MainActivityTest {
 	}
 	
 	@Test
-	public void shouldHaveHelloWorld() throws Exception {
+	public void sumメソッドで1と3の和は4となること() throws Exception {
 		int expected = 4;
 		int actual = activity.sum(1, 3);
 		assertThat(actual, is(expected));
