@@ -20,7 +20,7 @@ apply plugin: 'robolectric'
 
 android {
     compileSdkVersion 17
-    buildToolsVersion "20.0.0"
+    buildToolsVersion '20.0.0'
 
     sourceSets {
         main {
